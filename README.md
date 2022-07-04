@@ -1,2 +1,2 @@
 # A-Perfumery-Login-Page
-a login page built using BootStrap5, CSS and HTML
+A login page built using Bootstrap5, CSS and HTML5
